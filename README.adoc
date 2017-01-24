@@ -9,3 +9,7 @@ image::wpTema.PNG[320,600,align="center"]
 === Site içi resim
 
 image::screenshot.png[320,600,align="center"]
+
+=== Site Tanıtım Videosu
+
+https://www.youtube.com/watch?v=Bbpna9MQCQY&feature=youtu.be
